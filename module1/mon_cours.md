@@ -104,9 +104,9 @@ Répondez à ces questions
 [markdown]
 **Le matin**
 { 
- = Je me lève
- ~ Je me couche
- = Je mange & me lave les dents
- ~ Je ne vais pas au travail
+ ~50% Je me lève
+ ~-50% Je me couche
+ ~50% Je mange & me lave les dents
+ ~-50% Je ne vais pas au travail
  #### Je me **lève**, je **mange** et me **lave les dents** évidemment !
  }
