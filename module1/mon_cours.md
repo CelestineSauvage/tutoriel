@@ -3,7 +3,7 @@
 
 ## Structure globale d'un cours Culture Numérique
 
-Un cours se décompose en sections et sous-sections. Le niveau sous-sections constitue le niveau "pivot" de la structure d'un [cours Culture NUmérique](http://culturenumerique.univ-lille3.fr/). Chaque sous-section peut être du type et de la forme suivante:  
+Un cours se décompose en sections et sous-sections. Le niveau sous-sections constitue le niveau "pivot" de la structure d'un [cours Culture Numérique](http://culturenumerique.univ-lille3.fr/). Chaque sous-section peut être du type et de la forme suivante:  
 
 1. cours simple (texte + images)  
 2. vidéo de cours accompagnée de la version texte
@@ -25,8 +25,9 @@ Rédigée en MarkDown, c'est un type de sous-section simple consistant en du tex
 
 ## Vidéo de cours
 
+```
 [video]( https://vimeo.com/93350435 ){: .cours_video }
-
+```
 
 Ces éléments de cours consistent en des sous-sections pouvant inclure 1 ou plusieurs vidéos d'animations. Pour qu'un lien vers une vidéo (Vimeo uniquement pour l'instant) soit reconnu comme video de cours,  on utilise le principe des *attribute lists* (cf ci-dessus) en ajoutant la classe `cours_video`:  
 
