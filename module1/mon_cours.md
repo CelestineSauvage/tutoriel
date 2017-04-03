@@ -96,3 +96,17 @@ Représenter et normaliser est une tâche complexe : l'exemple de HTML. En vous 
 - Qui est responsable du standard `css` pour les feuilles de style ?
 {#### origine au CERN ; Le W3C développe le HTML depuis 1995 ; HTML5 en 2014 ; industriels, éditeurs logiciels, chercheurs, entreprises du Web, ... ; brouillon, appel, candidat, proposition et recommandation ; le W3C.}
 ```
+## Je rédige un quizz
+
+```activité 
+::Quizz de l'extrême::
+Répondez à ces questions
+[markdown]
+**Le matin**
+{ 
+ = Je me lève
+ ~ Je me couche
+ = Je mange & me lave les dents
+ ~ Je ne vais pas au travail
+ #### Je me **lève**, je **mange** et me **lave les dents** évidemment !
+ }
