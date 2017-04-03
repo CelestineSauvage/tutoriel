@@ -20,16 +20,5 @@ AUTHOR: Célestine SAUVAGE
  #### Je me **lève**, je **mange** et me **lave les dents** évidemment !
  }
  
-::Question piège::
-[markdown]
-** Pays **
-Match the following countries with their corresponding capitals. 
-{
-   =Canada -> Ottawa
-   =Italy  -> Rome
-   =Japan  -> Tokyo
-   =India  -> New Delhi
-   }
- 
 
 ```
