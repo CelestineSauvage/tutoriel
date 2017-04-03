@@ -1,3 +1,8 @@
+LANGUAGE: fr
+CSS: http://culturenumerique.univ-lille3.fr/css/base.css" />
+TITLE: Coucou
+MENUTITLE: Salut
+AUTHOR: Célestine SAUVAGE
 
 # Comment utiliser Esc@Pad pour produire un support de cours multi-plateformes
 
