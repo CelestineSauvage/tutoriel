@@ -9,7 +9,7 @@ AUTHOR: Célestine SAUVAGE
 ## Je rédige un quizz
 Répondez à cette question
 
-```activité 
+```activitéAvancée
 ::Quizz de l'extrême::
 [markdown]
 **Le matin :**
