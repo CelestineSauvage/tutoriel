@@ -23,8 +23,13 @@ Répondez à cette question
 
 ::Question piège::
 [markdown]
-**Mathématiques :**
-Two plus two equals {=four =4}
-<p> </p>
+** Pays **
+Match the following countries with their corresponding capitals. {
+   =Canada -> Ottawa
+   =Italy  -> Rome
+   =Japan  -> Tokyo
+   =India  -> New Delhi
+   }
+
 
 ```
