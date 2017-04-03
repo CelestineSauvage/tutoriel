@@ -9,7 +9,7 @@ AUTHOR: Célestine SAUVAGE
 ## Je rédige un quizz
 Répondez à cette question
 
-```activité
+```activiteAvance
 ::Quizz de l'extrême::
 [markdown]
 **Le matin :**
@@ -24,7 +24,8 @@ Répondez à cette question
 ::Question piège::
 [markdown]
 ** Pays **
-Match the following countries with their corresponding capitals. {
+Match the following countries with their corresponding capitals. 
+{
    =Canada -> Ottawa
    =Italy  -> Rome
    =Japan  -> Tokyo
