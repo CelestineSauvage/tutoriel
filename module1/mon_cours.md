@@ -50,11 +50,11 @@ AUTHOR: Célestine SAUVAGE
 
 // question à choix multiple (1 seul bonne réponse), avec texte+feedback global rédigé en HTML
 
-[html]<p>Que signifie <em>numérisation</em> ?</p>{
-=<p>L'opération qui consiste à représenter sous forme de nombres une
-information quelle qu'elle soit.</p>#<p>Oui !</p>
-~<p>L'opération qui consiste à citer tous les nombres (1, 2, 3, 4, ….).</p>#<p>Non, citer tous les nombres c'est compter...</p>
-####<p>La numérisation est l'opération qui consiste à représenter sous forme de nombres une information, quelle qu'elle soit.</p> }
+Que signifie numérisation ?{
+=L'opération qui consiste à représenter sous forme de nombres une
+information quelle qu'elle soit.#Oui !
+~L'opération qui consiste à citer tous les nombres (1, 2, 3, 4, ….).#Non, citer tous les nombres c'est compter...
+####La numérisation est l'opération qui consiste à représenter sous forme de nombres une information, quelle qu'elle soit.}
 
 
 // question à choix multiple et plusieurs bonnes réponses, pondérées de manière équivalente, mais une mauvaise réponse qui ne ramène pas de points, avec texte+feedback global rédigé en HTML
