@@ -19,5 +19,11 @@ AUTHOR: Célestine SAUVAGE
  #### Je me **lève**, je **mange** et me **lave les dents** évidemment !
  }
  
-
+::Coucou::
+[markdow]
+**J'aime**
+\n
+- le chocolat
+- les gâteaux
+- les fruits
 ```
