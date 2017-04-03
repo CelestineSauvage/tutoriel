@@ -26,4 +26,9 @@ AUTHOR: Célestine SAUVAGE
 - le chocolat
 - les gâteaux
 - les fruits
+
+// Vraie/Faux (la bonne réponse est FAUX) avec feedback, le tout rédigé en texte simple
+
+::Il n'existe qu'une façon seule façon de représenter numériquement un livre::
+{F# représenter une information est le résultat de nombreux choix}
 ```
