@@ -7,7 +7,6 @@ AUTHOR: Célestine SAUVAGE
 # Plop
 
 ## Je rédige un quizz
-:'(
 ```activité
 ::Quizz de l'extrême::
 [markdown]
