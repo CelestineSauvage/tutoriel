@@ -1,5 +1,5 @@
 LANGUAGE: fr
-CSS: http://culturenumerique.univ-lille3.fr/css/base.css" />
+CSS: https://developer.cdn.mozilla.net/static/build/styles/mdn.945582cfe665.css
 TITLE: Coucou
 MENUTITLE: Salut
 CHICKEN : Cotcot
