@@ -1,7 +1,7 @@
 LANGUAGE: fr
 CSS: http://culturenumerique.univ-lille3.fr/css/base.css" />
 TITLE: Coucou
-MENUTITLE : Salut
+MENUTITLE: Salut
 CHICKEN : Cotcot
 AUTHOR: Célestine SAUVAGE
 
