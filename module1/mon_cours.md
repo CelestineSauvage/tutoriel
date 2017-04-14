@@ -2,6 +2,7 @@ LANGUAGE: fr
 CSS: http://culturenumerique.univ-lille3.fr/css/base.css" />
 TITLE: Coucou
 MENUTITLE: Salut
+CHICKEN : Cotcot
 AUTHOR: Célestine SAUVAGE
 
 # Plop
