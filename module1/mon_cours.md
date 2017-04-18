@@ -5,7 +5,6 @@ TITLE: Coucou
 MENUTITLE: Salut
 CHICKEN : Cotcot
 AUTHOR: Célestine SAUVAGE
-
 # Plop
 
 ## Je rédige un quizz
