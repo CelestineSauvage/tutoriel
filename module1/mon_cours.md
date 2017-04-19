@@ -3,7 +3,7 @@ LANGUAGE: fr
 CSS: https://developer.cdn.mozilla.net/static/build/styles/mdn.945582cfe665.css
 TITLE: Coucou
 MENUTITLE: Salut
-CHICKEN : Cotcot
+CHICKEN: Cotcot
 AUTHOR: Célestine SAUVAGE
 
 # Title 0
