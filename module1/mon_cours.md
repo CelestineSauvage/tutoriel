@@ -5,7 +5,6 @@ TITLE: Coucou
 MENUTITLE: Salut
 CHICKEN: Cotcot
 AUTHOR: Célestine SAUVAGE
-
 # Title 0
 ## hihihi
 Blablabla
