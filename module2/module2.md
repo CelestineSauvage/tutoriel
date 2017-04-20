@@ -2,6 +2,13 @@
 
 ## Je fais un cours pour voir 
 Blablabla Bouuuou
+
+```activité
+::Vrai Faux::
+[markdown]**Salut** je m'appelle Célestine ?
+{V# bah oui}
+```
+
 ```comprehension
 ::les supports de connexion::
 [markdown]**Quels supports sont utilisés pour la transmission de données** et qui peuvent donc servir pour une connexion internet ?
