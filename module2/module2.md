@@ -6,7 +6,7 @@ Blablabla Bouuuou
 ```activité
 ::Vrai Faux::
 [markdown]**Salut** je m'appelle Célestine ?
-{V# bah oui}
+{T# bah oui}
 ```
 
 ```comprehension
