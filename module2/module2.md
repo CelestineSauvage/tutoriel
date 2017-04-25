@@ -2,6 +2,8 @@
 
 ## Je fais un cours pour voir 
 Blablabla Bouuuou
+### Là je mets une image
+![Fillontl](media/fillontl.png)
 
 ```activité
 ::Vrai Faux::
