@@ -94,30 +94,6 @@ Cela est également **possible** avec des **smartphones** récents. Sur le princ
 Cela est très pratique pour se connecter avec un ordinateur là où seules des connections 3G/4G seraient disponibles ... mais attention à la facture !
  }
 
-::Les normes et leurs sigles::
-**Classez ces modes de connexion du plus lent au plus rapide.**
-\n
-3G,4G,H+,Edge
-{
-3G -> 2
-4G -> 4
-H+ -> 3
-E (Edge) -> 1
-####
-# Les normes et leurs sigles
-\n
-- Les modes de connexion du plus lent au plus rapide.
-    - E (Edge) aussi appelé 2G, lent. Ce mode de connexion permet à peine de lire ses mails. Il ne permet pas une navigation fluide sur le Web.
-    - 3G (3ème génération) permet de faire des recherches et de surfer sans trop attendre.
-    - H+, est une amélioration de la 3G. il est plus rapide que le wifi si les connexions sont optimales. Et l'accès à la musique en ligne où aux vidéos peut être envisagé.
-    - 4G, plus rapide que le wifi si les connexions sont optimales. À condition bien sûr que cette connexion soit de bonne qualité ("plusieurs petites briques"), l'accès à internet est alors très fluide, et les jeux en ligne, les vidéos en streaming ou le téléchargement de gros fichiers devient possible.
-\n
-Notez bien que pour pouvoir bénéficier d'une connexion 4G, il faut :
-\n
- - que cette connexion soit disponible là où vous vous trouvez,
- - que votre smartphone soit équipé d'une antenne 4G, c'est loin d'être le cas sur tous les modèles y compris sur des appareils récents.
- }
-
 ::Les débits::
 [markdown]
 **Pouvoir évaluer les ordres de grandeur**
